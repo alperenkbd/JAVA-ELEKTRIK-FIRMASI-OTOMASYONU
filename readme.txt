@@ -1,11 +1,10 @@
-<h1>Java ile masaüstü ortamı için geliştirilmiş otomasyon uygulaması <h1>  
+#Java ile masaüstü ortamı için geliştirilmiş otomasyon uygulaması    
   
-Karşılama sayfası  
+##Karşılama sayfası  
 ![karsilama](https://github.com/alperenkbd/JAVA-ELEKTRIK-FIRMASI-OTOMASYONU/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B10.PNG)  
   
-Satış ekranı  
+##Satış ekranı  
 ![satis](https://github.com/alperenkbd/JAVA-ELEKTRIK-FIRMASI-OTOMASYONU/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)  
   
-Stok gösterim ekranı  
-  
+##Stok gösterim ekranı  
 ![stok](https://github.com/alperenkbd/JAVA-ELEKTRIK-FIRMASI-OTOMASYONU/blob/master/Ekran%20Al%C4%B1nt%C4%B1s%C4%B12.PNG)  
